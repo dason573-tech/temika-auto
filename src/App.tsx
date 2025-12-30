@@ -522,7 +522,6 @@ function App() {
                   <li>Veterinární průkaz s očkováním a odčervením</li>
                   <li>Základní očkování proti běžným chorobám</li>
                   <li>Čip pro identifikaci zvířete</li>
-                  <li>Startovací balíček (krmivo, hračky, deka s vůní matky)</li>
                   <li>Poradenství a celoživotní podpora chovatele</li>
                 </ul>
               </div>
